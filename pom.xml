@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-snapshot/</url>
+	      <url>http://3.16.22.55:4000/repository/ebay_cicd-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
